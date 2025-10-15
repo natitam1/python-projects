@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Natnael",
+    "age": 19,
+    "skills": ["Python", "React"]
+  },
+  {
+    "name": "Abel",
+    "age": 22,
+    "skills": ["JavaScript", "Node.js"]
+  }
+]
